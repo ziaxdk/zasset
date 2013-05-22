@@ -1,0 +1,16 @@
+{
+  "name": "zasset",
+  "description": "Combining JS files into one",
+  "homepage": "https://github.com/ziaxdk/zasset",
+  "dependencies": {
+    "async": "~0.2.8",
+    "uglify-js": "~2.3.5"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+      "node": "0.10.5",
+      "npm": "1.2.18"
+  },
+  "version": "0.9.0"
+}
